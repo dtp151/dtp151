@@ -15,11 +15,11 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="100"/> 
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="100" height="100"/> 
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin" width="100" height="100"/> 
+      <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="100" height="100"/> 
+      <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="ios" width="100" height="100"/> 
 </p>
 
 ---
