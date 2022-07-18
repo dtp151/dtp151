@@ -11,7 +11,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.kt**, **.java**, **.dat**
+- 💻 I use daily **.kt**, **.java**, **.dart**
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
